@@ -482,7 +482,7 @@ class MapScreenState extends State<MapScreen> {
                 child: Container(
                   color: Colors.white,
                   child: Image.network(
-                      'https://developers.google.com/maps/documentation/images/powered_by_google_on_white.png'),
+                      'https://static.wikia.nocookie.net/batman/images/0/07/Wayne_Enterprises_%28Uncrate%29.png/revision/latest?cb=20230809160842'),
                 ),
               )
             ],

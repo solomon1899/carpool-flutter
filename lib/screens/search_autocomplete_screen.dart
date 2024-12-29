@@ -80,7 +80,7 @@ class _SearchAutoCompleteScreenState extends State<SearchAutoCompleteScreen> {
                     : Container(),
                 ListTile(
                   title: Image.network(
-                    'https://developers.google.com/maps/documentation/images/powered_by_google_on_white.png',
+                    'https://static.wikia.nocookie.net/batman/images/0/07/Wayne_Enterprises_%28Uncrate%29.png/revision/latest?cb=20230809160842',
                   ),
                 )
               ]);
